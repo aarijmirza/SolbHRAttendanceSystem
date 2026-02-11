@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolbHRAttendanceSystem", "SolbHRAttendanceSystem\SolbHRAttendanceSystem.csproj", "{6AE9D95E-D15D-4BEF-8185-7ED579DEA4FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AE9D95E-D15D-4BEF-8185-7ED579DEA4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE9D95E-D15D-4BEF-8185-7ED579DEA4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE9D95E-D15D-4BEF-8185-7ED579DEA4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE9D95E-D15D-4BEF-8185-7ED579DEA4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D643786C-C14F-4C03-9743-05D0F3A7D3F0}
+	EndGlobalSection
+EndGlobal
